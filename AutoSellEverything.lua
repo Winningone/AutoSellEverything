@@ -24,8 +24,7 @@ AutoSellEverythingCharDB.ignoreCharacter = AutoSellEverythingCharDB.ignoreCharac
 
 if AutoSellEverythingDB.sellQualities == nil then
   AutoSellEverythingDB.sellQualities = {
-    [0] = true, [1] = true, [2] = true, [3] = true,
-    [4] = true, [5] = true, [6] = true, [7] = true
+    [0] = true
   }
 end
 

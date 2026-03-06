@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: AutoSellEverything
+## Notes: Sells all vendor-sellable items when you open a merchant window (and while it stays open).
+## Author: Winninger1
+## Version: 1.0-wotlk
+## SavedVariables: AutoSellEverythingDB
+## SavedVariablesPerCharacter: AutoSellEverythingCharDB
+
+AutoSellEverything.lua

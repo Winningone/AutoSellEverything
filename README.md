@@ -15,7 +15,9 @@ Ignored items can also display a note on their tooltip indicating whether the it
 # Slash Commands
 
 /asgui — Opens or closes the config window.
+
 /astoggle — Toggles the automatic selling system on or off.
+
 /asstatus — Displays whether the automatic selling system is currently enabled or disabled.
 
 /asignore add <scope> <itemID | itemLink> — Adds the specified item to the ignore list. Scope may be **global** or **character**.

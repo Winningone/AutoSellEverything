@@ -44,13 +44,12 @@ Item Rarity Reference (WoW 3.3.5)
 | 7      | Heirloom  | heirloom               |
 
 /asquality remove <quality> — Removes a rarity level from the list of sellable item qualities.
+
 /asquality list — Displays the currently enabled item rarity levels that will be automatically sold.
+
 /asquality all — Enables selling for all rarity levels.
+
 /asquality none — Disables selling for all rarity levels.
+
 /asquality add <quality> — Adds a rarity level to the list of sellable item qualities.
 
----
-
-# Supported Client
-
-This addon is tested on Warmane: Wrath of the Lich King

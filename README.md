@@ -21,8 +21,11 @@ Ignored items can also display a note on their tooltip indicating whether the it
 /asstatus — Displays whether the automatic selling system is currently enabled or disabled.
 
 /asignore add <scope> <itemID | itemLink> — Adds the specified item to the ignore list. Scope may be **global** or **character**.
+
 /asignore remove <scope> <itemID | itemLink> — Removes the specified item from the ignore list.
+
 /asignore list — Displays ignored items.
+
 /asignore clear <scope> — Clears either the global or character ignore list.
 
 /asquality set <qualities> — Defines exactly which rarity levels will be sold (accepts numbers or names such as 3, Rare, Blue etc.).
